@@ -23,10 +23,10 @@
 .
 ├── code				# Файлы с кодом
 ├── images				# Рисунки для Github и доп. материалы
-├── inputData			# Входные данные
-├── outputData			# Выходные данные
-├── .gitignore			# Файл для Git
-└── README.md			# Файл с описанием проекта
+├── inputData				# Входные данные
+├── outputData				# Выходные данные
+├── .gitignore				# Файл для Git
+└── README.md				# Файл с описанием проекта
 ```
 
 В папке inputData находятся входные данные из файла .csv [yellow_tripdata_2020-01.csv](https://disk.yandex.ru/d/DKeoopbGH1Ttuw)
@@ -36,14 +36,14 @@
 
 <details>
   <summary>Пример запуска приложения:</summary>
-```bash
-spark-submit --class org.example.App ./finalp.jar /home/user/finalp/inputData/yellow_tripdata_2020-01.csv /home/user/finalp/outputData/
-```
+
+	spark-submit --class org.example.App ./finalp.jar /home/user/finalp/inputData/yellow_tripdata_2020-01.csv /home/user/finalp/outputData/
+
 </details>
 
 <details>
   <summary>Схема работы приложения:</summary>
-![График1](images/diagram.drawio.png)
+	![График1](images/diagram.drawio.png)
 </details>
 
 ## Результаты и выводы:
@@ -51,7 +51,7 @@ spark-submit --class org.example.App ./finalp.jar /home/user/finalp/inputData/ye
 <details>
   <summary>Пример результата обработки:</summary>
 
-![График1](images/result1.png)![График2](images/result2.png)
+	![График1](images/result1.png)![График2](images/result2.png)
 
 </details>
 
