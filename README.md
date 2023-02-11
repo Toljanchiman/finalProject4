@@ -50,16 +50,16 @@ SQL (PostgreSQL, PgAdmin), Python (Pandas, mathplotlib)
 <details>
   <summary>Примеры результатов обработки:</summary>
 
-	![График1](https://github.com/Toljanchiman/finalProject4/blob/main/images/Results1.png)
-	![График2](https://github.com/Toljanchiman/finalProject4/blob/main/images/Results2.png)
+	![График1](https://raw.githubusercontent.com/Toljanchiman/finalProject4/main/images/Results1.png)
+	![График2](https://raw.githubusercontent.com/Toljanchiman/finalProject4/main/images/Results2.png)
 
 </details>
 
 
 Из результатов анализа можно сделать вывод о том, что чем большее количество пассажиров едет в такси, тем меньшее количество чаевых они оставляют. При этом, среднее пройденное расстояние поездки практически никак не влияет на размер чаевых.
 
-	![График3](https://github.com/Toljanchiman/finalProject4/blob/main/images/ReAnalisys1.png)
-	![График4](https://github.com/Toljanchiman/finalProject4/blob/main/images/ReAnalisys2.png)
+	![График3](https://raw.githubusercontent.com/Toljanchiman/finalProject4/main/images/ReAnalisys1.png)
+	![График4](https://raw.githubusercontent.com/Toljanchiman/finalProject4/main/images/ReAnalisys2.png)
 
 
 
